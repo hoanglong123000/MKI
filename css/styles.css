@@ -1,0 +1,48 @@
+.Web-Navigation-Bar
+{
+    background-color: rgb(71, 239, 68);
+}
+
+.Web-Navigation-Bar a
+{
+    color: white;
+    font-style: normal;
+}
+
+.Web-Navigation-Bar a
+{
+    margin: 50px;
+}
+
+.mainpage
+{
+    position: relative;
+    text-align: center;
+}
+
+.centertext
+{
+    position: absolute;
+    top: 250px;
+    left: 1000px;
+    color: white;
+    font-size: 40px;
+}
+
+.textover
+{
+    position: absolute;
+    top: 250px;
+    left: 300px;
+    color: white;
+    font-size: 45px;
+}
+
+.textd
+{
+    position: absolute;
+    top: 200px;
+    left: 300px;
+    color: white;
+    font-size: 30px;
+}
